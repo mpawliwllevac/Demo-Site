@@ -1,20 +1,23 @@
 {
-    "collab_server" : "",
-    "contents" : "",
-    "created" : 1591459968962.000,
-    "dirty" : false,
-    "encoding" : "UTF-8",
-    "folds" : "",
-    "hash" : "1437610487",
-    "id" : "651955E4",
-    "lastKnownWriteTime" : 1591459963,
-    "last_content_update" : 1591459963,
-    "path" : "C:/Users/Matthew/Dropbox/R Working Directory/Demo Site/config.toml",
-    "project_path" : "config.toml",
-    "properties" : {
+    "id": "651955E4",
+    "path": "C:/Users/Matthew/Dropbox/R Working Directory/Demo Site/config.toml",
+    "project_path": "config.toml",
+    "type": "toml",
+    "hash": "1437610487",
+    "contents": "",
+    "dirty": false,
+    "created": 1591459968962.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "Source": "Source"
     },
-    "relative_order" : 1,
-    "source_on_save" : false,
-    "source_window" : "",
-    "type" : "toml"
+    "folds": "",
+    "lastKnownWriteTime": 1591459963,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591459963,
+    "read_only": false,
+    "read_only_alternatives": []
 }

@@ -1,0 +1,9 @@
+---
+title: test post
+author: me
+date: '2023-10-15'
+slug: test-post
+categories: []
+tags: []
+---
+here we go
